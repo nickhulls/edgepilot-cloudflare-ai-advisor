@@ -5,6 +5,12 @@
   "compatibility_date": "2026-09-10",
   "workers_dev": true,
   "preview_urls": true,
+  "routes": [
+    {
+      "pattern": "edgepilot.azureagent.co",
+      "custom_domain": true
+    }
+  ],
   "ai": { "binding": "AI" },
   "vars": { "AI_GATEWAY_ID": "default" },
   "observability": { "enabled": true }
