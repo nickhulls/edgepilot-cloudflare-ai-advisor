@@ -1,8 +1,8 @@
-# EdgePilot — Cloudflare AI Architecture Advisor
+# EdgePilot - Cloudflare AI Architecture Advisor
 
 EdgePilot is a customer-facing proof of concept built on the Cloudflare Developer Platform. A customer describes an AI workload and receives a concise architecture recommendation covering request flow, security, resilience, cost controls, trade-offs, and a two-week PoC.
 
-This project is intentionally aligned to a Senior Solutions Architect conversation: discovery first, then a working architecture—not a generic chatbot.
+This project is intentionally aligned to a Senior Solutions Architect conversation: discovery first, then a working architecture, not a generic chatbot.
 
 ## What Cloudflare does in this project
 
