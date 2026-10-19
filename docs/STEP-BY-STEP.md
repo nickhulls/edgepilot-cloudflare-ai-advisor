@@ -70,7 +70,7 @@
 
 **Say to James:** “The deliverable is a live URL, source code, tests, and an architecture story. I can use the same assets in a customer workshop.”
 
-## What to build next—and why it is not in v1
+## What to build next and why it is not in v1
 
 1. **R2 + Vectorize:** Store approved source documents and retrieve relevant passages so recommendations are cited and updateable. Add only after the source corpus and access rules are clear.
 2. **Cloudflare Access:** Protect internal scenarios using the customer's identity provider. Add after the identity and authorization model are agreed.
