@@ -46,7 +46,7 @@ const page = `<!doctype html>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A Cloudflare-native AI architecture advisor for customer discovery and solution design.">
-    <title>EdgePilot — AI Architecture Advisor</title>
+    <title>EdgePilot - AI Architecture Advisor</title>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b1220'/%3E%3Cpath d='M13 38c0-6 5-11 11-11 2-8 9-13 18-11 6 1 11 7 11 14 5 1 8 5 8 10H13v-2z' fill='%23f6821f'/%3E%3Cpath d='M18 47h28' stroke='%236bb7ff' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E">
     <style>
       :root {
